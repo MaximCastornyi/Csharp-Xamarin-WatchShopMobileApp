@@ -1,0 +1,14 @@
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\bin\Debug\netstandard2.0\WatchShopXamarinApp.deps.json
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\bin\Debug\netstandard2.0\WatchShopXamarinApp.dll
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\bin\Debug\netstandard2.0\ref\WatchShopXamarinApp.dll
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\bin\Debug\netstandard2.0\WatchShopXamarinApp.pdb
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\WatchShopXamarinApp.AssemblyInfoInputs.cache
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\WatchShopXamarinApp.AssemblyInfo.cs
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\WatchShopXamarinApp.csproj.CoreCompileInputs.cache
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\WatchShopXamarinApp.dll
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\ref\WatchShopXamarinApp.dll
+C:\Users\uncleZaebiz\Desktop\development\ASP.NET\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\WatchShopXamarinApp\obj\Debug\netstandard2.0\WatchShopXamarinApp.pdb
